@@ -1,4 +1,5 @@
 Task: create a program that solves a maze with the backtracking method; create the frontend website using ReactJS
+Contributors: Sebastian Brenner; Julian W.
 
 Info 2 Maze Solver
 Requires Java JDK 13.0.1 or higher.
