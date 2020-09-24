@@ -1,4 +1,0 @@
-- ungenutzen/doppelten Code entfernen
-- Ref entfernen
-- Logik aus Square entfernen
-- doppelten Start/Stop verhindern
