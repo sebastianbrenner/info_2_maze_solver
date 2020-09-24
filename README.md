@@ -9,6 +9,7 @@ Backend <br />
 Execute the command "java -jar MazeBackend.jar" to start the backend server. <br />
 
 Frontend  <br />
+Install NodeJS. <br />
 Execute the command "npm install" or run the "install.sh" script in the frontend folder. (requires internet connection) <br />
 After that execute the command "npm start" or runt the "run.sh" script in the frontend folder. <br />
 
